@@ -1,4 +1,4 @@
-# 10-days-of-ML-Population-of-a-country-vs-Fertility-Rate
+# 100-days-of-ML-Population-of-a-country-vs-Fertility-Rate
 Jupyter Notebook exploring the relationship between a country's population and the fertility rate in its population
 
 I used the dataset from World Bank from 1960 to 2016. The dataset can be found here:
